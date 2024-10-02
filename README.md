@@ -1,4 +1,4 @@
-## Challange #2
+## Challenge #2
 
 These instructions will help you set up and run the tests in this NUnit project.
 
